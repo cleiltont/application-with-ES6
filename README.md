@@ -16,8 +16,6 @@
 * [Java Script ES6](#)
 * [Node.JS](#)
 
-# :runner: Começando
-
 # :closed_book: License
 
 Lançado em 2020.
