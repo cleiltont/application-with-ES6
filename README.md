@@ -2,40 +2,21 @@
    <img src=".github/.gif" width="300"/>
 </p>
 
-# Go Barber
+# Search user Github
 
 
-[![Author](https://img.shields.io)](https://github.com/SeuNomes)
-[![Languages](https://img.shields.io)](#)
-[![Stars](https://img.shields.io)](https://github.com/)
-[![Forks](https://img.shields.io)](https://github.com/)
-[![Contributors](https://img.shields.io)](https://github.com/)
-
-> Especificação
+> Treinando ES6
 
 ---
 
-# :pushpin: Indices
+# :pushpin: Tecnologia
 
-* [Features](#rocket-features)
-* [Installation](#construction_worker-installation)
-* [Getting Started](#runner-getting-started)
-* [FAQ](#postbox-faq)
-* [Found a bug? Missing a specific feature?](#bug-issues)
-* [Contributing](#tada-contributing)
-* [License](#closed_book-license)
-
-# :construction_worker: Instalaçao
+* [HTML](#)
+* [CSS](#)
+* [Java Script ES6](#)
+* [Node.JS](#)
 
 # :runner: Começando
-
-# :postbox: Perguntas frequentes
-__**Pergunta:**__
-__**Resposta:**__
-
-# :bug: Issues
-
-# :tada: Contributing
 
 # :closed_book: License
 
